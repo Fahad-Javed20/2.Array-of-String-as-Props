@@ -1,0 +1,1 @@
+export type BrothersType =[string,string,string,string]
